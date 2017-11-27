@@ -24,3 +24,6 @@ Print ('ABC')
 
 #new change master
 
+DFG=10
+x=ABC-DFG
+Print ('x')
