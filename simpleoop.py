@@ -19,3 +19,6 @@ for r in f.series():
 
 %pwd
 
+ABC=10
+Print ('ABC')
+
