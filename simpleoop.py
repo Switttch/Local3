@@ -19,6 +19,7 @@ for r in f.series():
 
 %pwd
 
-ABC=10
+ABC=100
 Print ('ABC')
+
 
